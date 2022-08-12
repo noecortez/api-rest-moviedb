@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-moviedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noecortez/api-rest-moviedb.git"
+  },
+  "author": "@noecortez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noecortez/api-rest-moviedb/issues"
+  },
+  "homepage": "https://github.com/noecortez/api-rest-moviedb#readme"
+}
